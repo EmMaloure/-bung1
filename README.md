@@ -1,1 +1,2 @@
-# -bung1
+# -bung1Es kann keine Umlaute äöü
+Äh doch.
